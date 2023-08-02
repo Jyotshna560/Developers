@@ -1,4 +1,4 @@
 # Developers
-team
-k.jyotshna priya    -22191A0560
-h.saniya             -22191A0546
+Team
+K.Jyotshna priya    -22191A0560
+H.Saniya             -22191A0546
